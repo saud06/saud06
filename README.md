@@ -6,11 +6,17 @@
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saud06&label=Profile%20views&color=0e75b6&style=flat" alt="saud06" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saud06&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/saud06?style=social">
+  <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaud06&logo=leetcode&logoColor=yellow">
+</p>
+
+<br>
 
 <img align="right" alt="Programmer" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<br><br><br>
+<br><br>
 
 - 🌱 I’m currently learning **Many things that related to JavaScript ⚡**
 
@@ -20,7 +26,7 @@
 
 - 📄 Take a look at my Resume http://bit.ly/3AIh0mL
 
-<br>
+<br><br>
 
 <h3 align="left">My Profiles</h3>
 <p align="left">
@@ -38,11 +44,13 @@
 
 <br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saud06&show_icons=true&locale=en&layout=compact" alt="saud06" />
+</p>
+
+<br><br><br><br><br><br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saud06&show_icons=true&locale=en" alt="saud06" /></p>
 
 <br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saud06&" alt="saud06" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saud06&show_icons=true&locale=en&layout=compact" alt="saud06" />
-</p>
