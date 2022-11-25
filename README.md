@@ -3,9 +3,10 @@
 
 <h1 align="center">🅷🅴🅻🅻🅾, I'm Saud M.</h1>
 <h3 align="center">I can turn thoughts indo code! Trust me!!</h3>
-<img align="right" alt="Programmer" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saud06&label=Profile%20views&color=0e75b6&style=flat" alt="saud06" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saud06&label=Profile%20views&color=0e75b6&style=flat" alt="saud06" /> </p>
+
+<img align="right" alt="Programmer" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 - 🌱 I’m currently learning **Many things that related to JavaScript ⚡**
 
@@ -13,7 +14,7 @@
 
 - 📫 Reach me at **saud.mn6@gmail.com**
 
-- 📄 Take a look at my Resume [https://drive.google.com/file/d/1VHROM4k1y1c1IfhwWTgJv_BPetJvteCi/view?usp=sharing](https://drive.google.com/file/d/1VHROM4k1y1c1IfhwWTgJv_BPetJvteCi/view?usp=sharing)
+- 📄 Take a look at my Resume http://bit.ly/3AIh0mL
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
