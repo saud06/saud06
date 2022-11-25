@@ -1,9 +1,11 @@
+
+![68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966](https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif)
+
 <h1 align="center">🅷🅴🅻🅻🅾, I'm Saud M.</h1>
 <h3 align="center">I can turn thoughts indo code! Trust me!!</h3>
+<img align="right" alt="Programmer" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saud06&label=Profile%20views&color=0e75b6&style=flat" alt="saud06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saud06" alt="saud06" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saud06&label=Profile%20views&color=0e75b6&style=flat" alt="saud06" /> </p>
 
 - 🌱 I’m currently learning **Many things that related to JavaScript ⚡**
 
@@ -13,7 +15,7 @@
 
 - 📄 Take a look at my Resume [https://drive.google.com/file/d/1VHROM4k1y1c1IfhwWTgJv_BPetJvteCi/view?usp=sharing](https://drive.google.com/file/d/1VHROM4k1y1c1IfhwWTgJv_BPetJvteCi/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saud06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saud06" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7203368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7203368" height="30" width="40" /></a>
