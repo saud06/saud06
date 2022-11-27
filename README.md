@@ -24,7 +24,9 @@
 
 - 📫 Reach me at **saud.mn6@gmail.com**
 
-- 📄 Take a look at my Resume http://bit.ly/3AIh0mL
+- 🔰 Find me on social network **http://bit.ly/3OHg3k4**
+
+- 📄 Take a look at my Resume **http://bit.ly/3AIh0mL**
 
 <br><br>
 
