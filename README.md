@@ -28,7 +28,7 @@
 
 - 📄 Take a look at my Resume **http://bit.ly/3AIh0mL**
 
-<br><br>
+<br>
 
 <h3 align="left">My Profiles</h3>
 <p align="left">
