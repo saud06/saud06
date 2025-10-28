@@ -26,7 +26,7 @@
 
 🔰 Find me on social network **<a href="https://www.linkedin.com/in/saud06/" target="_blank">here</a>**
 
-📄 Take a look at my resume **<a href="https://drive.google.com/file/d/1ZSqyGGESs8m0cBbRDeayKjWFKMc0MPwV/view?usp=sharing" target="_blank">here</a>**
+📄 Take a look at my resume **<a href="https://drive.google.com/file/d/11x-OVxNdtPIXqCKpgMJtJtf1i2rHxLmU/view?usp=sharing" target="_blank">here</a>**
 
 <br>
 
